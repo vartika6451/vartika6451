@@ -8,11 +8,25 @@
 - 🌱 Learning **RAG, LangGraph and System Design**
 - 📫 Reach me: vartikasharma9093@gmail.com
 
-**Connect with me:**
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VartikaSha78875)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vartika-sharma-5b3868325/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vartika6451/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vartikasharma9093@gmail.com)
+<h2>Connect with me:</h2>
+
+<p align="left">
+<a href="https://x.com/VartikaSha78875">
+<img src="https://cdn.simpleicons.org/x" width="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/vartika-sharma-5b3868325/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/vartika6451/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="mailto:vartikasharma9093@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+</a>&nbsp;&nbsp;
+</p>
 
 ## Languages and Tools I Use 👩🏻‍💻
 
