@@ -9,21 +9,21 @@
 - 📫 Reach me: vartikasharma9093@gmail.com
 
 **Connect With me:**
-<p align ="left">
+<p alig ="left">
 <a href="https://x.com/VartikaSha78875">
-<img src="https://cdn.simpleicons.org/x" width="50" />
+<img src="https://cdn.simpleicons.org/x" width="40" />
 </a>
 
 <a href="https://www.linkedin.com/in/vartika-sharma-5b3868325/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
 
 <a href="https://leetcode.com/u/vartika6451/">
-<img src="https://cdn.simpleicons.org/leetcode" width="50" />
+<img src="https://cdn.simpleicons.org/leetcode" width="40" />
 </a>
 
 <a href="mailto:vartikasharma9093@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50" />
+<img src="https://skillicons.dev/icons?i=gmail" width="40" />
 </a>
 </p>
 
@@ -58,19 +58,6 @@
 </td>
 </tr>
 
-<tr>
-<td><b>Mobile Dev:</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=flutter,react" />
-</td>
-</tr>
-
-<tr>
-<td><b>Python Frameworks:</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=flask,fastapi" />
-</td>
-</tr>
 
 <tr>
 <td><b>Version Control:</b></td>
@@ -79,12 +66,6 @@
 </td>
 </tr>
 
-<tr>
-<td><b>DevOps:</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=docker,aws" />
-</td>
-</tr>
 
 <tr>
 <td><b>Deployment:</b></td>
